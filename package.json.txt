@@ -1,0 +1,13 @@
+{
+  "name": "jarvis-proxy",
+  "version": "1.0.0",
+  "description": "Jarvis Proxy Server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.0",
+    "node-fetch": "^2.6.1"
+  }
+}
